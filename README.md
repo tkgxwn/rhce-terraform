@@ -19,7 +19,7 @@ Antes de comenzar, asegúrate de tener instalado:
 ## 🚀 Guía de Uso
 
 Sigue estos pasos para desplegar el entorno:
-
+* Crea un template con rocky9 (En este caso el template se encuentra en /data/bkp/rocky9.qcow2, debes adaptar el main.tf)
 
 1. ** Ubicate en el directorio que contenga los archivos **
  
